@@ -7,3 +7,5 @@ Brute Force Methode  Bis 20 Stellen, (ulong)  sucht er im angegebenen Bereich na
 Mit Parallel.For Methode (Nutzt alle Kerne des Prozessors)
 
 **Mein schnellstes Brute Force Programm bis 20 Stellen (ulong)**
+
+![Primzahlen](https://github.com/sauternic/Gif_Bilder/blob/master/BruteForce_3.gif)
