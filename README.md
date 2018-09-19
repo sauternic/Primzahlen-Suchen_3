@@ -13,3 +13,5 @@ Mit Parallel.For Methode (Nutzt alle Kerne des Prozessors)
 ---
 
 Über 20 Stellen: [link](https://github.com/sauternic/Primzahlen-Suchen_5)
+
+[Website for primes ... up to 16 digits](https://sauternic.github.io/JavaScript_Primzahlen_Auflisten/)
